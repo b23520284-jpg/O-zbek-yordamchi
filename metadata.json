@@ -1,0 +1,6 @@
+{
+  "name": "Oʻzbek Yordamchi",
+  "description": "Ona tili va adabiyot oʻqituvchilari uchun mukammal AI tizimi: Alisher Navoiydan zamonaviy davrgacha adabiy meros, dars konspektlari, matn va she'r tahlili, testlar, izohli lug'at va 0-token keshlash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
